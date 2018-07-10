@@ -1,6 +1,6 @@
 ## Mother's Day!
 
-<img src = "http://forthemommas.com/wp-content/uploads/2015/05/hallmark.jpg">
+## <img src = "http://forthemommas.com/wp-content/uploads/2015/05/hallmark.jpg">
 
 ### Intro
 
@@ -9,6 +9,9 @@ Mother's day is coming up, and you've been hired by Hallmark to develop some e-c
 ### Step 1 - a method with no arguments
 
 Define a method, `mothers_day`, that returns a string that says `"Happy Mother's Day, Mom!"`
+
+def mothers_day
+  put
 
 
 
